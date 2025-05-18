@@ -26,9 +26,7 @@ This project applies supervised machine learning techniques to predict the survi
 3. Modify parameters or models as needed to test different approaches.
 
 ## Authors
-- [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
+- Orel Cohen
+- Oshri Halevi
 
-## License
-This project is for academic use only.
+
